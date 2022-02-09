@@ -22,7 +22,7 @@ POST (CREATE):
 - set to POST and input web.socem.plymouth.ac.uk/COMP2001/JWhiteford/Showcase/api/programmes/ to request URL box
 - you must now enter the details you wish to post to the database. it must be in JSON format as seen in the image below
 ![](images/POST.jpg)
-- "code" & "title must not be changed"
+- add a code & title to the "code" & "title" fields
 - click send and you should have a 201 created status
 - you can check by performing a GET request as detailed above
 
